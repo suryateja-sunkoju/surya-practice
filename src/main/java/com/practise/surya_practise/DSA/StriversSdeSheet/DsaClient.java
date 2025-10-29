@@ -62,10 +62,10 @@ public class DsaClient
     {
 //        new DeleteAGivenNodeWhenANodeIsGiven().bruteForce();
 
-        new FindTheMiddleOfLinkedList().bruteForce();
-        new RemoveNthNodeFromBackOfLinkedList().goodApproach();
-        new MergeTwoSortedLinkedList().bruteForce();
-        new ReverseALinkedList().bruteForce();
+//        new FindTheMiddleOfLinkedList().bruteForce();
+        new RemoveNthNodeFromBackOfLinkedList().bruteForce();
+//        new MergeTwoSortedLinkedList().bruteForce();
+//        new ReverseALinkedList().bruteForce();
     }
     private static void day6(){
 
